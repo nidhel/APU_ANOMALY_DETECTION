@@ -1,5 +1,7 @@
 # Data
 /data/
+!/data/*.dvc
+google_key.json
 
 # Mac OS-specific storage files
 .DS_Store
